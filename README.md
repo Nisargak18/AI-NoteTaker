@@ -173,3 +173,5 @@ Git & GitHub (version control, deployment integration)
 
 # Outputs Screenshots
 
+
+1. ![alt text](<Screenshot 2025-08-26 183846.png>)
