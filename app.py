@@ -83,7 +83,6 @@ def copy_button(label, text_to_copy, key):
     """
     components.html(component_code, height=40)
 
-
 # ---------- Main Run ----------
 if run:
     if not uploaded and not raw_text.strip():
@@ -157,7 +156,31 @@ if run:
     st.caption("Tip: You can upload files, paste text, or record your voice to generate summaries.")
 
 
-# ---------- Sidebar ----------
-st.sidebar.header("About")
-st.sidebar.write("Multi-format summaries in one click: bullets, email, to-do.")
-st.sidebar.write("Engines: OpenAI GPT (primary) or Hugging Face (fallback).")
+# ========== SIDEBAR ==========
+st.sidebar.header(" About AI Notetaker")
+st.sidebar.success(
+    """
+    *AI Notetaker* is your smart assistant for capturing the essence of meetings, 
+    lectures, research papers, and brainstorming sessions.  
+
+     *Key Features*
+    -  Generates concise *bullet point summaries*  
+    -  Converts notes into ready-to-send *email drafts*  
+    -  Extracts actionable *To-Do lists* automatically  
+    -  Supports *voice recording + transcription*  
+    -  Works with *PDF, TXT, DOCX uploads* or direct text input  
+
+     *Use Cases*
+    - Professionals → meeting minutes, task tracking  
+    - Students → summarize lectures & study material  
+    - Researchers → compress long papers into insights  
+    - Teams → align action items quickly  
+
+     *Tech Stack*
+    - Python · Streamlit · HuggingFace Transformers · OpenAI GPT · Whisper  
+
+    Built for hackathons & productivity lovers.  
+    """
+)
+st.sidebar.caption(" Save time. Focus on what matters.")
+
