@@ -169,3 +169,7 @@ dotenv (environment variable management)
 HTML/CSS inside Streamlit (UI polish, background image, styling)
 
 Git & GitHub (version control, deployment integration)
+
+
+# Outputs Screenshots
+
