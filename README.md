@@ -175,3 +175,26 @@ Git & GitHub (version control, deployment integration)
 
 
 1. ![alt text](<Screenshot 2025-08-26 183846.png>)
+
+
+2. ![alt text](<Screenshot 2025-08-26 183907.png>)
+
+
+3. ![alt text](<Screenshot 2025-08-26 184145.png>)
+
+4. ![alt text](<Screenshot 2025-08-26 184837.png>) 
+
+
+5. ![alt text](<Screenshot 2025-08-26 184310 (2).png>) 
+
+
+6. ![alt text](<Screenshot 2025-08-26 184310.png>) 
+
+
+7. ![alt text](<Screenshot 2025-08-26 184342.png>) 
+
+
+8. ![alt text](<Screenshot 2025-08-26 184444.png>) 
+
+
+9. ![alt text](<Screenshot 2025-08-26 184816.png>)
