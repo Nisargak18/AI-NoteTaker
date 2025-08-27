@@ -174,19 +174,20 @@ Git & GitHub (version control, deployment integration)
 # Outputs Screenshots
 
 
-1. ![alt text](<Screenshot 2025-08-26 183846.png>)
+1. ![alt text](<Screenshot 2025-08-26 184837.png>) 
 
 
-2. ![alt text](<Screenshot 2025-08-26 183907.png>)
+2. ![alt text](<Screenshot 2025-08-26 162446.png>) 
 
 
-3. ![alt text](<Screenshot 2025-08-26 184145.png>)
-
-4. ![alt text](<Screenshot 2025-08-26 184837.png>) 
+3. ![alt text](<Screenshot 2025-08-26 183846.png>) 
 
 
-5. ![alt text](<Screenshot 2025-08-26 184310 (2).png>) 
+4. ![alt text](<Screenshot 2025-08-26 183907.png>) 
 
+
+5. ![alt text](<Screenshot 2025-08-26 184145.png>) 
+ 
 
 6. ![alt text](<Screenshot 2025-08-26 184310.png>) 
 
@@ -198,3 +199,16 @@ Git & GitHub (version control, deployment integration)
 
 
 9. ![alt text](<Screenshot 2025-08-26 184816.png>)
+
+
+
+
+
+---
+# Access AI-NoteTaker
+
+
+https://ai-notetaker-kipr5yeld8msha5p7nhqqk.streamlit.app/
+
+
+
