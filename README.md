@@ -204,11 +204,7 @@ Git & GitHub (version control, deployment integration)
 
 
 
----
-# Access AI-NoteTaker
 
-
-https://ai-notetaker-kipr5yeld8msha5p7nhqqk.streamlit.app/
 
 
 
